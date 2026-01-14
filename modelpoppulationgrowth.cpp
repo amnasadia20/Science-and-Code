@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+/*
+ Problem: Model population growth: Use differential equations or a simple agent-based model to simulate how a population changes over time, considering birth rates, death rates, and carrying capacity.
+*/
 int main() {
     double population;
     double growthRate;
